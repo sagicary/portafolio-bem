@@ -37,3 +37,16 @@
 		padding-right: 10px;
 	}
 }
+.contenido{
+	background-color: $azul;
+	height: 100vh;
+	.contenido__texto{
+		width: 50%;
+	    margin: 50px auto;
+	    border-radius: 10px;
+	    padding: 0px;
+	    box-sizing: border-box;
+	    margin-right: 0px;
+	    margin-top: -350px
+	}
+}
