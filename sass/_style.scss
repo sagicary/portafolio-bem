@@ -87,4 +87,37 @@
 			font-size: 40px;
 		}
 	}
+	.redes{
+		text-align: center;
+		i{
+			color: $blanco;
+			margin: 5px;
+			cursor: pointer;
+		}
+		.fa-facebook{
+			background-color: $facebook;
+			padding: 5px 9px;
+		}
+		.fa-twitter{
+			background-color: $twitter;
+			padding: 5px 5px;
+		}
+		.fa-google-plus{
+			background-color: $google;
+			padding: 5px 3px;
+		}
+		.fa-pinterest{
+			background-color: $pinterest;
+			padding: 5px 6px;
+		}
+		.fa-stumbleupon{
+			background-color: $stumbleupon;
+			padding: 5px 5px;
+		}
+		.fa-dribbble{
+			background-color: $dribbble;
+			padding: 5px 7px;
+		}
+
+	}
 }
